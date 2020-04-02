@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         agama7  = (RadioButton) findViewById(R.id.aliran);
         telfon = (TextInputEditText ) findViewById(R.id.editTelp);
         email = (TextInputEditText ) findViewById(R.id.editEmail);
-//        pass1 = (TextInputEditText) findViewById(R.id.editPass);
+//        pass1 = (TextInputEditText) findViewById(R.id.editPass); 
 //        pass2 = (TextInputEditText ) findViewById(R.id.editPass2);
 
         final DatePickerDialog.OnDateSetListener date = new DatePickerDialog.OnDateSetListener(){
